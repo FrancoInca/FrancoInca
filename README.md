@@ -1,10 +1,12 @@
 # Hi! I'm Franco Inca
----
+
 💻 Front End software developer ⚛.
 
+---
 ### Contact ✉
 - [LinkedIn](https://www.linkedin.com/in/franco-jes%C3%BAs-inca-donayre-7906b2262/)
 
+---
 ### About me 👨‍💻
 
 I'm a peruvian Front End Software Developer. I am currently studing in SoyHenry, learning about JavaScript, ReactJS, Node.JS and more.
@@ -16,6 +18,7 @@ I'm a peruvian Front End Software Developer. I am currently studing in SoyHenry,
 - CSS (Intermediate)
 - Javascript (Intermediate)
 - ReactJS (Intermediate)
+- Git (Intermediate)
 - Node.JS (Currently learning)
 ---
 
