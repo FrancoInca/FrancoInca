@@ -5,6 +5,8 @@
 ---
 ### Contact ✉
 - [LinkedIn](https://www.linkedin.com/in/franco-jes%C3%BAs-inca-donayre-7906b2262/)
+- Email: francoinca1604@gmail.com
+- Whatsapp: +51 904 243 742
 
 ---
 ### About me 👨‍💻
