@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @FrancoInca
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on the development of websites and apps.
-- 📫 How to reach me: @FrancoInca in GitHub
+# Hi! I'm Franco Inca
+---
+💻 Front End software developer ⚛.
 
-<!---
-FrancoInca/FrancoInca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Contact ✉
+- [LinkedIn](https://www.linkedin.com/in/franco-jes%C3%BAs-inca-donayre-7906b2262/)
+
+### About me 👨‍💻
+
+I'm a peruvian Front End Software Developer. I am currently studing in SoyHenry, learning about JavaScript, ReactJS, Node.JS and more.
+
+### Actual Knowledge 👨‍🎓
+
+- English (Intermediate)
+- HTML (Intermediate)
+- CSS (Intermediate)
+- Javascript (Intermediate)
+- ReactJS (Intermediate)
+- Node.JS (Currently learning)
+---
+
+### Jobs I worked on. 👔
+
+- [Web Page for Accesorios y Servicios Hidraulicos](http://acchidraulicos.com)
+- Repositories in GitHub
+- More in progress.
