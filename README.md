@@ -24,11 +24,11 @@ I'm a peruvian Front End Software Developer. I am currently studing in SoyHenry,
 - Git (Intermediate)
 - Node.JS (Currently learning)
 
-### 📈Stats
+### Stats 📈
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FrancoInca&show_icons=true&theme=nord#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📝Languages
+### Languages 📝
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoInca&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
