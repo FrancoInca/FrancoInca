@@ -22,7 +22,8 @@ I'm a peruvian Front End Software Developer. I am currently studing in SoyHenry,
 - Javascript (Intermediate)
 - ReactJS (Intermediate)
 - Git (Intermediate)
-- Node.JS (Currently learning)
+- NodeJS (Currently learning)
+- ExpressJs (Currently learning)
 
 ### Stats 📈
 
