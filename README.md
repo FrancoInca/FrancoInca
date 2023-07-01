@@ -16,14 +16,17 @@ I'm a peruvian Front End Software Developer. I am currently studing in SoyHenry,
 
 ### Actual Knowledge 👨‍🎓
 
-- English (Intermediate)
-- HTML (Intermediate)
-- CSS (Intermediate)
-- Javascript (Intermediate)
-- ReactJS (Intermediate)
-- Git (Intermediate)
-- NodeJS (Currently learning)
-- ExpressJs (Currently learning)
+- English C1 - Advanced
+- HTML 
+- CSS 
+- Javascript 
+- ReactJS 
+- Git 
+- NodeJS 
+- Express.js
+- Tailwind
+- Bootstrap
+- Nodemailer
 
 ### Stats 📈
 
